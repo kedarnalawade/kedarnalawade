@@ -25,7 +25,7 @@ name: Kedar Nalawade
 role: Software Developer
 location: Pune, India
 currently_learning: Bsc(cs)
-ask_me_about: Python,java,Html,C,Powerbi,Cloud,DS
+ask_me_about: Python,java,Html,C,Powerbi,Cloud,DS,AI,ML
 fun_fact: I debug better with coffee ☕
 ```
 
