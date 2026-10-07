@@ -76,23 +76,21 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=kedarnalawade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarnalawade&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedarnalawade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarnalawade&layout=compact&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kedarnalawade&theme=radical"
-     alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kedarnalawade&theme=radical" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kedarnalawade&theme=radical"
-     width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kedarnalawade&theme=redical" width="100%"/>
 
 </div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -126,7 +124,7 @@ fun_fact: I debug better with coffee ☕
 <img src="https://raw.githubusercontent.com/kedarnalawade/kedarnalawade/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
-<br/>
+<br/> 
 
 ## 📈 Contribution Graph
 
@@ -144,7 +142,7 @@ fun_fact: I debug better with coffee ☕
 <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="kedarnalawade63@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+
 
 </div>
 
